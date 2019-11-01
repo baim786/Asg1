@@ -1,0 +1,28 @@
+p {
+  font-family: Arial;
+}
+
+
+#private {
+  float: right;
+  font-size: 0.6rem;
+}
+
+#copy {
+  float: right;
+  font-size: 0.6rem;
+}
+
+.label {
+  color: black;
+  padding: 8px;
+}
+
+.login {
+  width: 45px;
+  height: 20px;
+  border-style: solid;
+  border-width: 0 0 3px 0;
+  border-bottom-width: 2px;
+  border-color: green;
+}
